@@ -16,13 +16,11 @@
             text-align: center;
             padding: 20px;
         }
-
         nav {
             background: #005fa3;
             padding: 10px;
             text-align: center;
         }
-
         nav a {
             color: white;
             text-decoration: none;
