@@ -18,7 +18,7 @@
         }
         nav {
             background: #005fa3;
-            padding: 10px;
+            padding: 11px;
             text-align: center;
         }
         nav a {
@@ -27,7 +27,6 @@
             margin: 0 15px;
             font-weight: bold;
         }
-
         section {
             max-width: 900px;
             margin: 20px auto;
