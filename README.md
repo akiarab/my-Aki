@@ -11,10 +11,10 @@
             background: #f4f4f4;
         }
         header {
-            background: #0078d7;
+            background: #0068d7;
             color: blue;
             text-align: center;
-            padding: 20px;
+            padding: 21px;
         }
         nav {
             background: #005fa3;
