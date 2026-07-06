@@ -8,7 +8,7 @@
         body {
             margin: 0;
             font-family: Tahoma, sans-serif;
-            background: #f4f4f4;
+            background: #f4f4f5;
         }
         header {
             background: #0068d7;
@@ -24,7 +24,7 @@
         nav a {
             color: white;
             text-decoration: none;
-            margin: 0 16px;
+            margin: 0 12px;
             font-weight: bold;
         }
         section {
