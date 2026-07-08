@@ -28,13 +28,12 @@
             font-weight: bold;
         }
         section {
-            max-width: 900px;
-            margin: 20px auto;
+            max-width: 800px;
+            margin: 10px auto;
             padding: 20px;
             background: white;
             border-radius: 10px;
         }
-
         footer {
             background: #333;
             color: white;
@@ -42,7 +41,6 @@
             padding: 15px;
             margin-top: 20px;
         }
-
         .btn {
             display: inline-block;
             background: #0078d7;
