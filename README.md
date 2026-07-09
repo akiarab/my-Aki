@@ -18,7 +18,7 @@
         }
         nav {
             background: #005fa3;
-            padding: 10px;
+            padding: 12px;
             text-align: center;
         }
         nav a {
