@@ -49,7 +49,6 @@
             border-radius: 5px;
             text-decoration: none;
         }
-
         .btn:hover {
             background: #005fa3;
         }
@@ -75,7 +74,6 @@
     <p>
 شرکت ما اولین تولید کننده گوشی هوشمند است
     </p>
-
     <a href="#" class="btn">بیشتر بدانید</a>
 </section>
 
