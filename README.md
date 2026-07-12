@@ -50,7 +50,7 @@
             text-decoration: none;
         }
         .btn:hover {
-            background: #005fa3;
+            background: #00efa3;
         }
     </style>
 </head>
