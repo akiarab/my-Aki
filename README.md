@@ -30,7 +30,7 @@
         section {
             max-width: 800px;
             margin: 10px auto;
-            padding: 23px;
+            padding: 22px;
             background: white;
             border-radius: 13px;
         }
@@ -78,7 +78,7 @@
 </section>
 
 <section>
-    <h2>خدمات</h2>
+    <h2>  خدمات و پشتیبانی</h2>
     <ul>
         <li>طراحی وب</li>
         <li>برنامه‌نویسی</li>
