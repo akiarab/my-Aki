@@ -30,7 +30,7 @@
         section {
             max-width: 800px;
             margin: 10px auto;
-            padding: 22px;
+            padding: 20px;
             background: white;
             border-radius: 13px;
         }
