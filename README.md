@@ -14,11 +14,11 @@
             background: #0068d7;
             color: blue;
             text-align: center;
-            padding: 23px;
+            padding: 25px;
         }
         nav {
             background: #005fa3;
-            padding: 12px;
+            padding: 10px;
             text-align: center;
         }
         nav a {
