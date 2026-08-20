@@ -24,7 +24,7 @@
         nav a {
             color: white;
             text-decoration: none;
-            margin: 0 12px;
+            margin: 0 15px;
             font-weight: bold;
         }
         section {
