@@ -14,7 +14,7 @@
             background: #0068d7;
             color: red;
             text-align: center;
-            padding: 30px;
+            padding: 32px;
         }
         nav {
             background: #006fa3;
