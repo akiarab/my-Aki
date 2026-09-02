@@ -17,7 +17,7 @@
             padding: 30px;
         }
         nav {
-            background: #005fa3;
+            background: #006fa3;
             padding: 10px;
             text-align: center;
         }
