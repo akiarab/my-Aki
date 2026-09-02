@@ -32,7 +32,7 @@
             margin: 10px auto;
             padding: 20px;
             background: white;
-            border-radius: 13px;
+            border-radius: 14px;
         }
         footer {
             background: #333;
