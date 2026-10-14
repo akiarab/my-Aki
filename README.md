@@ -29,7 +29,7 @@
         }
         section {
             max-width: 800px;
-            margin: 11px auto;
+            margin: 21px auto;
             padding: 20px;
             background: white;
             border-radius: 14px;
