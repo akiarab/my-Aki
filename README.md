@@ -28,7 +28,7 @@
             font-weight: bold;
         }
         section {
-            max-width: 800px;
+            max-width: 900px;
             margin: 31px auto;
             padding: 20px;
             background: white;
